@@ -11,9 +11,9 @@ I'm excited to share my latest project, **NewsFlash**, which dives into the worl
 - 💡 **Clean and intuitive interface** powered by React.js
 
 ## 📺 Demo
-
 🎥 Watch the demo video:  
 👉 [Click here to view](https://github.com/kanishka-raisania/NewsFlash/raw/main/1703789811573.mp4)
+![image](https://github.com/user-attachments/assets/74246629-a0ab-45f0-ac03-d1f1554bb8e8)
 
 > You can also download the video directly and watch it locally.
 
